@@ -8,7 +8,11 @@
 
 
 
-专硕学硕皆可使用
+专硕学硕皆可使用，“论无忧”格式检测0错误
+
+
+
+录制讲解视频在B站上线：[B站讲解视频](https://www.bilibili.com/video/BV1xhLBz6EmS/?share_source=copy_web&vd_source=afcc18133e75b8e0bf390c0d19d83833)
 
 
 
