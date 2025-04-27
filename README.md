@@ -12,7 +12,7 @@
 
 
 
-录制讲解视频在B站上线：https://www.bilibili.com/video/BV1xhLBz6EmS
+录制讲解视频在B站上线：`https://www.bilibili.com/video/BV1xhLBz6EmS`
 
 
 
